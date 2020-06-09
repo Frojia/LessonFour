@@ -14,7 +14,6 @@ class Fish{
         this.weight = weight;
         this.color = color;
     }
-//пустой фиш использоватьв таске 4
     public Fish() {
         this("aleks", 10, "white");
     }
